@@ -20,5 +20,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-bhuse-626239216/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbhuse&show_icons=true&locale=en" alt="vishalbhuse" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbhuse&hide_border=true&layout=compact" align="left" style="width: 100%" />  
