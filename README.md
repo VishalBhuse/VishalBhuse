@@ -31,7 +31,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbhuse&show_icons=true&locale=en" alt="vishalbhuse"  height="150" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhuse&show_icons=true&locale=en&layout=compact" alt="vishalbhuse"  height="150" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&" alt="vishalbhuse" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&" alt="vishalbhuse"   height="150" />
 </p>
 
 
