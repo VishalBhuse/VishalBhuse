@@ -34,7 +34,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&" alt="vishalbhuse"   height="150" />
 </p>
   <br/>
-  <br/>
   <h3><b> Recent GitHub Activity ⚡</b></h3>
   <p>
    <a href="https://github.com/vishalbhuse"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalbhuse&custom_title=vishalbhuse's%20Contribution%20Graph&theme=react-dark" /></a></p>
