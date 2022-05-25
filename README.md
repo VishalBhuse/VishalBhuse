@@ -35,6 +35,7 @@
 </p>
   <br/>
   <br/>
+  <p><summary><b>⚡ Recent GitHub Activity</b></summary></p>
   <p>
    <a href="https://github.com/vishalbhuse"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalbhuse&custom_title=vishalbhuse's%20Contribution%20Graph&theme=react-dark" /></a></p>
   <br/>
