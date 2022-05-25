@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm 🆅🅸🆂🅷🅰🅻 </h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalbhuse&label=Profile%20views&color=0e75b6&style=flat" alt="vishalbhuse" /> </p>
 
