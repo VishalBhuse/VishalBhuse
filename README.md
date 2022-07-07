@@ -8,7 +8,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishalbhuse&label=Profile%20views&color=5E9F00&style=flat" alt="vishalbhuse" /> </p>
 
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
-
+<hr/>
 
 - 🔭 I’m currently working on **Modesens.com Clone**
 
