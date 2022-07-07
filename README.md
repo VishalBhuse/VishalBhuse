@@ -9,9 +9,13 @@
 
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaantelangur&label=Profile%20views&color=0e75b6&style=flat" alt="rohaantelangur" /> </p>
 
-- 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
+- 🔭 I’m currently working on **Modesens CLone**
+
+- 🌱 I’m currently learning **react, nodejs, mongooDB**
+
 
 
 
