@@ -9,6 +9,10 @@
 
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+- 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
+
 
 
 <p align="left">
