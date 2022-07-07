@@ -12,7 +12,7 @@
 ### Hey there! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaantelangur&label=Profile%20views&color=0e75b6&style=flat" alt="rohaantelangur" /> </p>
 
-- 🔭 I’m currently working on **Modesens CLone**
+- 🔭 I’m currently working on **Modesens.com Clone**
 
 - 🌱 I’m currently learning **react, nodejs, mongooDB**
 
