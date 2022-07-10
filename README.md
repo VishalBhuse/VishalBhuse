@@ -68,8 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhuse&show_icons=true&locale=en&layout=compact" alt="vishalbhuse"  height="150" />
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&" alt="vishalbhuse"   height="150" />
 </p>
-  <br/>
-  <h3><b> Recent GitHub Activity ⚡</b></h3>
-  <p>
-   <a href="https://github.com/vishalbhuse"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalbhuse&custom_title=vishalbhuse's%20Contribution%20Graph&theme=react-dark" /></a></p>
-  <br/>
