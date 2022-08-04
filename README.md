@@ -67,8 +67,8 @@
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalbhuse&theme=dracula" alt="vishalbhuse" width="75%"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalbhuse&show_icons=true&locale=en&theme=react" alt="vishalbhuse"  height="150"   width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhuse&show_icons=true&locale=en&layout=compact&theme=react" alt="vishalbhuse"  width="30%" height="150" />
-   <img  width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&&theme=react" alt="vishalbhuse"   height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalbhuse&show_icons=true&locale=en&theme=react" alt="vishalbhuse"  height="150"   width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhuse&show_icons=true&locale=en&layout=compact&theme=react" alt="vishalbhuse"  width="50%" height="150" />
+   <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&&theme=react" alt="vishalbhuse"   height="150" />
 </p>
 
