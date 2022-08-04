@@ -35,7 +35,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />  
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+   <img src="https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="expressjs"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </p>
 
@@ -64,7 +66,9 @@
 <h3><i>GitHub's Stats <img         src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 
 <p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalbhuse&theme=dracula" alt="vishalbhuse" width="76%"  />
   <img src="https://github-readme-stats.vercel.app/api?username=vishalbhuse&show_icons=true&locale=en&theme=react" alt="vishalbhuse"  height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhuse&show_icons=true&locale=en&layout=compact&theme=react" alt="vishalbhuse"  height="150" />
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&&theme=react" alt="vishalbhuse"   height="150" />
 </p>
+
