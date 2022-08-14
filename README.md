@@ -10,7 +10,7 @@
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 <hr/>
 
-- 🔭 I’m currently working on **Modesens.com Clone**
+- 🔭 I’m currently working on **OLX.com Clone**
 
 - 🌱 I’m currently learning **react, nodejs, mongooDB**
 
@@ -62,7 +62,7 @@
       <a href="https://www.linkedin.com/in/vishal-bhuse-626239216/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="visha" ></a>
       <a title="vbhuse2407@gmail.com" href="mailto:vbhuse2407@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="visha" >
       </a>      
-      <a title="portfolio" href="https://vishal-bhuse-portfolios.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
+      <a title="portfolio" href="https://vishal-bhuse-portfolio.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
       </a>
       
 
