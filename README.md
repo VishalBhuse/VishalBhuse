@@ -63,6 +63,8 @@
       </a>      
       <a title="portfolio" href="https://vishal-bhuse-portfolio.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
       </a>
+    <a title="portfolio" href="https://drive.google.com/file/d/1uWhyVgoG90Uw8EakVDIeIL1Y4N7M_cV3/view?usp=share_link" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="resume" >
+      </a>
       
 
 
