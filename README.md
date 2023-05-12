@@ -14,7 +14,10 @@
 
 - 🌱 I’m currently learning **Next JS**
 
+- 👯 I’m looking to collaborate on OpenSource Projects
+
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/VishalBhuse?tab=repositories"> My Github Repositories</a>
+<!-- - 💬 Ask me about anything, I am happy to help; -->
 
 - 📫 How to reach me vbhuse2407@gmail.com
 
